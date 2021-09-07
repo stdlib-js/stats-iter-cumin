@@ -138,6 +138,23 @@ while ( true ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/iter/cumax`][@stdlib/stats/iter/cumax]: create an iterator which iteratively computes a cumulative maximum value.
+-   [`@stdlib/stats/iter/cumidrange`][@stdlib/stats/iter/cumidrange]: create an iterator which iteratively computes a cumulative mid-range.
+-   [`@stdlib/stats/iter/curange`][@stdlib/stats/iter/curange]: create an iterator which iteratively computes a cumulative range.
+-   [`@stdlib/stats/iter/min`][@stdlib/stats/iter/min]: compute the minimum value of all iterated values.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -196,6 +213,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-iter-cumin/main/LICENSE
 
 [mdn-iterator-protocol]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterator_protocol
+
+<!-- <related-links> -->
+
+[@stdlib/stats/iter/cumax]: https://github.com/stdlib-js/stats-iter-cumax
+
+[@stdlib/stats/iter/cumidrange]: https://github.com/stdlib-js/stats-iter-cumidrange
+
+[@stdlib/stats/iter/curange]: https://github.com/stdlib-js/stats-iter-curange
+
+[@stdlib/stats/iter/min]: https://github.com/stdlib-js/stats-iter-min
+
+<!-- </related-links> -->
 
 </section>
 
